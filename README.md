@@ -33,10 +33,15 @@ The dashboard was built in **Microsoft Power BI** using data from multiple CSV s
 ### 📂 Files in This Repository
 Ecommerce-Sales-Analysis/
 │
+
 ├── customer.csv # Customer data including region and demographics
+
 ├── products.csv # Product details such as name, category, and price
+
 ├── orders.csv # Transactional order data with quantities and dates
+
 ├── ecommercesales.pbix # Power BI project file (interactive dashboard)
+
 └── ecommercesales.pdf # Exported PDF version of the Power BI report
 
 ---
